@@ -1,3 +1,16 @@
+/*
+Hello, World
+cadence = 0
+gear = 2
+speed = 1
+cadence = 100
+gear = 2
+speed = 1
+cadence = 200
+gear = 2
+speed = 1
+*/
+
 public class HelloWorld {
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
