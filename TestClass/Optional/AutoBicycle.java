@@ -14,7 +14,7 @@ public class AutoBicycle {
     }
 
     public AutoBicycle(int startValue) {
-      ob = Optional.empty();
+        ob = Optional.empty();
         value = startValue;
     }
 
