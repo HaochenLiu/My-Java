@@ -39,7 +39,6 @@ class D extends B{
 
 class Solution {
     public static void main(String[] args) {
-        //定义父类数组  
         A a1 = new A();
         A a2 = new B();
         B b = new B();
