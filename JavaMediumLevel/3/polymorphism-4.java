@@ -70,6 +70,6 @@ class Solution {
         //8--B and B。this是B。找不到B.show(C)。就找B的super.show(C)，也就是A.show(C)，找不到。就找B.show(C的super)。先找B.show(B)。找到了。
         
         System.out.println("9--" + b.show(d));
-        //9--A and D。this是B。找不到B.show(D)。就找B的super.show(C)，也就是A.show(D)，找到了。
+        //9--A and D。this是B。找不到B.show(D)。就找B的super.show(D)，也就是A.show(D)，找到了。
     }
 }
